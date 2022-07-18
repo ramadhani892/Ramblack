@@ -16,7 +16,6 @@ cryptg
 csvfaker
 deezloader
 dnspython
-emoji
 fontTools
 git+https://github.com/1danish-00/carbon-now-sh-api-wrapper.git
 git+https://github.com/buddhhu/img2html.git
